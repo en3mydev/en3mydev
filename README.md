@@ -1,8 +1,7 @@
 ### Hi there, I'm Daniel! 👋
 
-👨‍💻 I'm a Software Engineer and a Computer Science and Electronics student at Politehnica University of Bucharest (Year 3).  
-🔭 I am currently working on a full-stack Crypto Trading Platform web application.  
-🌱 I’m learning and exploring the depths of software engineering, diving into React, JavaScript, CSS, and C/C++.
+👨‍💻 I'm a Software Engineer and a Computer Science and Electronics student at Politehnica University of Bucharest (Year 3).
+🌱 I’m learning and exploring the depths of software engineering.
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-en3mydev/)
