@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel! 👋
 
-👨‍💻 I'm a Software Engineer and a Computer Science and Electronics student at Politehnica University of Bucharest (Year 3).
+👨‍💻 I'm a Software Engineer and a Computer Science and Electronics student at Politehnica University of Bucharest (Year 3). 
 🌱 I’m learning and exploring the depths of software engineering.
 
 ### 📫 Connect with me:
