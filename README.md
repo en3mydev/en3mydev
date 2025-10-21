@@ -11,4 +11,4 @@
 
 
 ### 🛠 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,supabase,react,js,nodejs,express,mongodb,html,css,tailwind,c,cpp,flask,py,git,vscode,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,postgres,supabase,mongodb,nodejs,express,html,css,tailwind,c,cpp,git,vscode,figma,ps)](https://skillicons.dev)
